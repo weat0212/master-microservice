@@ -12,6 +12,6 @@ import lombok.Setter;
 public class LimitConfiguration {
 
 	private int maximum;
-	private int minimun;
+	private int minimum; 
 
 }
